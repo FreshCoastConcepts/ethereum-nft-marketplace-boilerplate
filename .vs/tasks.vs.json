@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskName": "task-ethereum-nft-marketplace-boilerplate",
+      "appliesTo": "/",
+      "type": "launch"
+    }
+  ]
+}

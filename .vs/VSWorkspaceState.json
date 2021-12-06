@@ -1,7 +1,8 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\src",
+    "\\src\\providers\\MoralisDappProvider"
   ],
-  "SelectedNode": "\\public",
   "PreviewInSolutionExplorer": false
 }

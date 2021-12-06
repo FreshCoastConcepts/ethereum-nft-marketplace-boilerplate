@@ -3,7 +3,6 @@ import { useMoralis } from "react-moralis";
 import MoralisDappContext from "./context";
 
 function MoralisDappProvider({ children }) {
-//function MoralisDappProvider(children) {
   const [web3, Moralis, user ] = useMoralis();
   const [walletAddress, setWalletAddress] = useState();
   const [chainId, setChainId] = useState();       
